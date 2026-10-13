@@ -1,0 +1,2 @@
+# DIT-1_7_WEEK5
+ARRAYS
